@@ -1,0 +1,17 @@
+/**
+ * Custom CSS
+ * Use this file to override styles if you feel uncomfortable editing
+ * component stylesheets.
+ ============================================================================ */
+
+.l-attribution {
+  display: none;
+}
+
+.field-name-field-image {
+  float: left;
+  width: 300px;
+  margin: 0 1rem 0 0;
+}
+
+
